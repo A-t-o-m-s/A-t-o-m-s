@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @A-t-o-m-s
 - 👀 I’m interested in cars, coding, and games
 - 🌱 I’m currently learning lua, .js, and .py
-- 💞️ I’m looking to collaborate on reward system
+- 💞️ I’m looking to develop a racing economic server for fivem
 - 📫 How to reach me discord, $Atom$#7200
 
 <!---
